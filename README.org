@@ -1,0 +1,8 @@
+* T242-ICS-344: Team 10 Project
+** Work Distribution
+| Phase   | Name                |        ID |
+|---------+---------------------+-----------|
+| Phase 1 | Wael Sulais         | 202032440 |
+| Phase 2 | Mohammad Al-Joudi   | 202041460 |
+| Phase 3 | Rayyan Al-Suhaibani | 202029380 |
+
