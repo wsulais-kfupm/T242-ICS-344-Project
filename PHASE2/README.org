@@ -19,3 +19,6 @@ Before exploit
 After exploit
 
 [[./images/splunk-after.png]]
+
+We can see from the logs that an FTP connection has been made.
+That FTP connection is used to transfer the PHP payload using anonymous login.
