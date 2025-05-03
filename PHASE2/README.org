@@ -1,0 +1,21 @@
+* Phase 2
+** Splunk Forwarder 
+
+Configuring splunk forwarder on victim
+
+[[./images/splunk-forwarder-config.png]]
+
+Splunk forwarder status
+
+[[./images/splunk-forwarder-status.png]]
+
+** Splunk
+
+Before exploit
+
+[[./images/splunk-before.png]]
+
+
+After exploit
+
+[[./images/splunk-after.png]]
