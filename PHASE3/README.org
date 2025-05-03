@@ -1,0 +1,15 @@
+* Phase 3
+
+[[./images/nmap.png]]
+
+
+** Hardening
+
+Disable anonymous login
+[[./images/proftpd-config.png]]
+
+Firewalling unused ports
+[[./images/iptables.png]]
+
+Exploit failed after hardening
+[[./images/exploit-failed.png]]
